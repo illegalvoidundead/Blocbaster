@@ -1,11 +1,11 @@
 ## Base de datos para un videoclub
-!(https://github.com/illegalvoidundead/Videoclub/blob/main/images/video-rentals.jpg)
+![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/video-rentals.jpg)
 En este proyecto he desarrollado un esquema SQL para la  gestión de un videoclub. El objetivo principal ha sido recuperar una serie de tablas de una antigua base de datos y a partir de ella crear un esquema que permita administrar eficientemente el negocio. Para la limpieza, transformacion y organización de las tablas he utilizado la librería Pandas de Python de y esquema SQL lo he creado utilizando MySQL Workbench, una herramienta que facilita el diseño y la administración de bases de datos.
 
 
 
 # Características del videoclub
-!(https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
+![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
 El esquema SQL desarrollado está destinado a un videoclub que ofrece una amplia selección de películas a sus clientes. Lo elementos que componen dicho esquema son los siguientes:
 
 Películas: El videoclub cuenta con una extensa colección de películas, cada una de las cuales está representada en la tabla "film". Cada película tiene un título, una descripción, una duración de alquiler, una tarifa de alquiler, una longitud, un costo de reemplazo, una clasificación y características especiales.
@@ -23,7 +23,7 @@ Alquileres: Los alquileres de películas se registran en la tabla "rental", que 
 
 
 # Beneficios del esquema SQL
-!(https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
+![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
 Para el desarrollo de la base de datos de este videoclub hemos utilizado un esquema SQL, el cual ofrece los siguientes beneficios:
 
 Organización de la información: El esquema SQL permite almacenar y organizar de manera eficiente la información sobre películas, actores, categorías, idiomas, inventario, clientes y alquileres.
@@ -34,4 +34,4 @@ Eficiencia en la gestión del negocio: El esquema SQL facilita la gestión del v
 
 En resumen, el esquema SQL desarrollado para este videoclub ofrece una solución eficiente y efectiva para la gestión de un negocio de alquiler de películas. Gracias a su diseño cuidadoso y a sus características útiles, este esquema SQL puede contribuir significativamente al éxito y la rentabilidad del videoclub.
 
-!(https://github.com/illegalvoidundead/Videoclub/blob/main/images/videodrome07.gif)
+![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videodrome07.gif)
