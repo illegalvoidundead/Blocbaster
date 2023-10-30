@@ -1,7 +1,7 @@
 ![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/video-rentals.jpg)
 # Base de datos para un videoclub
 
-En este proyecto he desarrollado un esquema SQL para la  gestión de un videoclub. El objetivo principal ha sido recuperar una serie de tablas de una antigua base de datos y a partir de ella crear un esquema que permita administrar eficientemente el negocio. Para la limpieza, transformacion y organización de las tablas he utilizado la librería Pandas de Python y el esquema SQL lo he creado utilizando MySQL Workbench, una herramienta que facilita el diseño y la administración de bases de datos.
+En este proyecto he desarrollado un esquema SQL para la gestión de un videoclub. El objetivo principal ha sido crear un esquema que permita administrar eficientemente el negocio a partir de una serie de tablas provinientes de una antigua base de datos. Para la limpieza, transformacion y organización de las tablas he utilizado la librería Pandas de Python. Para crear la base de datos he usado SQL mediante MySQL Workbench, una herramienta que facilita el diseño y la administración de bases de datos.
 
 
 ![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
