@@ -1,11 +1,13 @@
-## Base de datos para un videoclub
+#### Base de datos para un videoclub
 ![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/video-rentals.jpg)
+
 En este proyecto he desarrollado un esquema SQL para la  gestión de un videoclub. El objetivo principal ha sido recuperar una serie de tablas de una antigua base de datos y a partir de ella crear un esquema que permita administrar eficientemente el negocio. Para la limpieza, transformacion y organización de las tablas he utilizado la librería Pandas de Python de y esquema SQL lo he creado utilizando MySQL Workbench, una herramienta que facilita el diseño y la administración de bases de datos.
 
 
 
-# Características del videoclub
+## Características del videoclub
 ![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
+
 El esquema SQL desarrollado está destinado a un videoclub que ofrece una amplia selección de películas a sus clientes. Lo elementos que componen dicho esquema son los siguientes:
 
 Películas: El videoclub cuenta con una extensa colección de películas, cada una de las cuales está representada en la tabla "film". Cada película tiene un título, una descripción, una duración de alquiler, una tarifa de alquiler, una longitud, un costo de reemplazo, una clasificación y características especiales.
@@ -22,7 +24,7 @@ Clientes: El videoclub tiene una base de datos de clientes, que se representa en
 Alquileres: Los alquileres de películas se registran en la tabla "rental", que tiene un identificador de alquiler, una fecha de alquiler, un identificador de inventario, un identificador de cliente, una fecha de devolución y un identificador de personal.
 
 
-# Beneficios del esquema SQL
+## Beneficios del esquema SQL
 ![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/videoclub.jpeg)
 Para el desarrollo de la base de datos de este videoclub hemos utilizado un esquema SQL, el cual ofrece los siguientes beneficios:
 
