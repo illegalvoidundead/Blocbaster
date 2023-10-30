@@ -25,7 +25,7 @@ Alquileres: Los alquileres de películas se registran en la tabla "rental", que 
 
 
 ## Beneficios del esquema SQL
-![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/esquema.jpeg)
+![](https://github.com/illegalvoidundead/Videoclub/blob/main/images/Esquema.jpeg)
 Para el desarrollo de la base de datos de este videoclub hemos utilizado un esquema SQL, el cual ofrece los siguientes beneficios:
 
 Organización de la información: El esquema SQL permite almacenar y organizar de manera eficiente la información sobre películas, actores, categorías, idiomas, inventario, clientes y alquileres.
